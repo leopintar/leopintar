@@ -45,10 +45,10 @@ Minha base vem da operação real de infraestrutura — configurando switches, r
 
 | Projeto | Foco Técnico | Descrição |
 | :--- | :--- | :--- |
-| **[Monitoramento Automatizado de Rede](./monitoramento-rede-python)** | `Python` `ICMP` `SMTP` `Logs` | Script multiplataforma para verificação contínua de servidores, switches e impressoras com geração de logs e alertas automáticos por e-mail. |
-| **[Laboratórios de Redes e Segurança (CCNA)](./laboratorios-redes-ccna)** | `Cisco IOS` `OSPF` `VLAN` `ACL` `NAT` | Scripts de configuração CLI e topologias corporativas aplicando segmentação de rede, roteamento dinâmico e Port-Security. |
-| **[Analytics de Service Desk (GLPI)](./analytics-service-desk-sql-powerbi)** | `SQL` `MySQL` `Power BI` `KPIs` | Modelagem relacional e consultas analíticas para extração de SLA, MTTR e gargalos operacionais de chamados de TI e ERP. |
-| **[Auditoria de Logs de Segurança com IA](./auditoria-logs-seguranca-ia)** | `Python` `Cibersegurança` `IA` | Analisador de tentativas de intrusão (Força Bruta SSH/RDP) com detecção de anomalias e geração de relatório executivo assistido por IA. |
+| **[Monitoramento Automatizado de Rede](https://github.com/leopintar/monitoramento-rede-python)** | `Python` `ICMP` `SMTP` `Logs` | Script multiplataforma para verificação contínua de servidores, switches e impressoras com geração de logs e alertas automáticos por e-mail. |
+| **[Laboratórios de Redes e Segurança (CCNA)](https://github.com/leopintar/laboratorios-redes-ccna)** | `Cisco IOS` `OSPF` `VLAN` `ACL` `NAT` | Scripts de configuração CLI e topologias corporativas aplicando segmentação de rede, roteamento dinâmico e Port-Security. |
+| **[Analytics de Service Desk (GLPI)](https://github.com/leopintar/analytics-service-desk-sql-powerbi)** | `SQL` `MySQL` `Power BI` `KPIs` | Modelagem relacional e consultas analíticas para extração de SLA, MTTR e gargalos operacionais de chamados de TI e ERP. |
+| **[Auditoria de Logs de Segurança com IA](https://github.com/leopintar/auditoria-logs-seguranca-ia)** | `Python` `Cibersegurança` `IA` | Analisador de tentativas de intrusão (Força Bruta SSH/RDP) com detecção de anomalias e geração de relatório executivo assistido por IA. |
 
 ---
 
